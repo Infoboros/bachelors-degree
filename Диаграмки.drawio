@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T14:09:44.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="Eij6FeBpGpTy3pDixGEt" version="17.2.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-04-01T14:31:47.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="GvUaHU647qST1Y1elUFl" version="17.2.4" type="github" pages="15">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1590,6 +1590,50 @@
         </mxCell>
         <mxCell id="GZDvb_UBrveeIl52gn1J-9" value="&lt;span style=&quot;font-size: 15px&quot;&gt;Информация о пользователе&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD4D2;strokeColor=#b85450;strokeWidth=3;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="638" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="evq_phiu2CS5Uyu9hf96" name="Подсистема оплаты">
+    <mxGraphModel dx="573" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--1" target="Cw4GM7yztgOJPn4F1oO--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--1" target="Cw4GM7yztgOJPn4F1oO--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDMrgtXJpfWgjtCxbt-q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.248;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--1" target="WDMrgtXJpfWgjtCxbt-q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--1" value="Модуль API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--2" target="Cw4GM7yztgOJPn4F1oO--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--2" target="Cw4GM7yztgOJPn4F1oO--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--2" value="Модуль взаимодействия с банковской системой" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cw4GM7yztgOJPn4F1oO--3" target="Cw4GM7yztgOJPn4F1oO--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--3" value="Модуль хранения платежной информации" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw4GM7yztgOJPn4F1oO--4" value="Банковская &lt;br&gt;система" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WDMrgtXJpfWgjtCxbt-q-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.745;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WDMrgtXJpfWgjtCxbt-q-1" target="Cw4GM7yztgOJPn4F1oO--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WDMrgtXJpfWgjtCxbt-q-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
