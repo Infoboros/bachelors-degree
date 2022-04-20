@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T11:27:13.901Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ZJdFxRGnQtl3tx-5xkfB" version="17.4.5" type="github" pages="25">
+<mxfile host="app.diagrams.net" modified="2022-04-20T11:27:47.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="aJKUiNu3zNtMETaBkK5m" version="17.4.5" type="github" pages="25">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
     <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2228,7 +2228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YM-shxcJd8UmIr34Ex1u" name="приоритет тестирования">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2326,7 +2326,7 @@
           <mxGeometry x="342" y="630" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WQ8W57RFoZjy-uikgNoJ-1" value="MS Online Office" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="290" y="115" width="120" height="60" as="geometry" />
+          <mxGeometry x="293.5" y="115" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQ8W57RFoZjy-uikgNoJ-2" value="Банковская система" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="630" y="115" width="120" height="60" as="geometry" />
