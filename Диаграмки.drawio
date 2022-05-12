@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T21:57:31.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jDihbiITxHCOxoJVpACx" version="17.4.6" type="github" pages="27">
+<mxfile host="app.diagrams.net" modified="2022-05-12T12:13:51.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2E3J6mT-iOeoBolBDAeA" version="17.4.6" type="github" pages="27">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="440" y="225" width="485" height="235" as="geometry" />
         </mxCell>
         <mxCell id="0MThmSpImU8zYmVHz2Wk-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;rotation=-90;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="225" width="485" height="235" as="geometry" />
+          <mxGeometry x="-32.5" y="207.5" width="485" height="270" as="geometry" />
         </mxCell>
         <mxCell id="0MThmSpImU8zYmVHz2Wk-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" parent="1" vertex="1">
           <mxGeometry x="878" y="350" width="80" height="80" as="geometry" />
@@ -54,7 +54,7 @@
           <mxGeometry x="160" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0MThmSpImU8zYmVHz2Wk-14" value="КЛИЕНТЫ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="130" width="170" height="40" as="geometry" />
+          <mxGeometry x="125" y="130" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0MThmSpImU8zYmVHz2Wk-15" value="СЕРВЕР" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="607.5" y="130" width="150" height="40" as="geometry" />
@@ -64,6 +64,33 @@
         </mxCell>
         <mxCell id="CCs0apERn6RNRqBHWkci-1" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="130" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/64px-Google_Chrome_icon_%28February_2022%29.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="358" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/768px-Opera_2015_icon.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="245" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yandex.Browser_icon.svg/1200px-Yandex.Browser_icon.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="464" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://restfulapi.net/wp-content/uploads/rest.png;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="230" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.therore.net/images/swagger-300x201.png;" vertex="1" parent="1">
+          <mxGeometry x="382.87" y="440" width="149.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://storage.caktusgroup.com/media/blog-images/drf-logo2.png;" vertex="1" parent="1">
+          <mxGeometry x="599.84" y="200" width="165.32" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="460" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="848.25" y="190" width="139.5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="dH9aiEVZJU5EtQ9G3dkI-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/newrelic/newrelic-quickstarts/main/quickstarts/python/psycopg2/logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="848.25" y="440" width="140" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
