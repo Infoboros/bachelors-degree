@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T19:43:09.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SxntJ_XOyocaJiuQz0F3" version="18.0.5" type="github" pages="29">
+<mxfile host="app.diagrams.net" modified="2022-05-15T19:48:48.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="A1i6gZum1bKZnys8VPi9" version="18.0.5" type="github" pages="29">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
     <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2778,60 +2778,40 @@
         <mxCell id="tnfMs-W8-RII1h-UiOA4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=60;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-25" target="tnfMs-W8-RII1h-UiOA4-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Получение данных из подсистемы хранения информации об организации&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="tnfMs-W8-RII1h-UiOA4-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;template:= DocxTemplate(path)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="485" y="270" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=60;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-26" target="tnfMs-W8-RII1h-UiOA4-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Агрегирование данных для удобства заполнения шаблона&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="485" y="360" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-29" target="tnfMs-W8-RII1h-UiOA4-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-29" target="tnfMs-W8-RII1h-UiOA4-33">
+        <mxCell id="tnfMs-W8-RII1h-UiOA4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=60;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-26">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="500" />
-              <mxPoint x="470" y="620" />
-              <mxPoint x="589" y="620" />
-            </Array>
-            <mxPoint x="599" y="640" as="targetPoint" />
+            <mxPoint x="589" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-29" value="Агрегированные &lt;br&gt;данные корректны &lt;br&gt;и достаточны" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="489" y="450" width="200" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=classic;endFill=1;endSize=6;strokeWidth=1;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-31" target="tnfMs-W8-RII1h-UiOA4-33">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="724" y="620" />
-              <mxPoint x="590" y="620" />
-            </Array>
-            <mxPoint x="599" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Сообщить пользователю об ошибке&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="659" y="528.5" width="130" height="75.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-32" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;-&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="689" y="450" width="30" height="30" as="geometry" />
+        <mxCell id="tnfMs-W8-RII1h-UiOA4-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;context:= Aggregate().get_context()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="473.75" y="360" width="232.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tnfMs-W8-RII1h-UiOA4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=60;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-33" target="tnfMs-W8-RII1h-UiOA4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Заполнение шаблона информацией об организации&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="484" y="650" width="210" height="60" as="geometry" />
+        <mxCell id="tnfMs-W8-RII1h-UiOA4-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;template.render(context)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="485" y="450" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tnfMs-W8-RII1h-UiOA4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=60;" edge="1" parent="1" source="tnfMs-W8-RII1h-UiOA4-34" target="tnfMs-W8-RII1h-UiOA4-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnfMs-W8-RII1h-UiOA4-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Отправка пользователю сформированной печатной формы&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="485" y="740" width="210" height="60" as="geometry" />
+        <mxCell id="tnfMs-W8-RII1h-UiOA4-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;template.save(path)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="486" y="540" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tnfMs-W8-RII1h-UiOA4-39" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="530" y="830" width="120" height="30" as="geometry" />
+          <mxGeometry x="531" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yz321qfCI0IYsqk7s_c5-2" value="Загрузка jinja2 шаблона в оперативную память" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="285" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yz321qfCI0IYsqk7s_c5-3" value="Получение данных с помощью системы агрегаторов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="375" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yz321qfCI0IYsqk7s_c5-4" value="Генерация и сохранение готовой печатной формы" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="691" y="510" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
