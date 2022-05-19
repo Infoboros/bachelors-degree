@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T22:46:26.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="FsNeydMa1qtDBC2j-34K" version="18.0.3" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2022-05-19T22:48:03.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1hjMqa71y3gf-hI2U6Us" version="18.0.3" type="github" pages="32">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2432,7 +2432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JmbxRfmnHCpj6-ujOi1I" name="Общая архитектура">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2602,16 +2602,16 @@
           <mxGeometry x="351.27" y="617.71" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F0ihaf4aq0Wll3CYCOc_-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.therore.net/images/swagger-300x201.png;" vertex="1" parent="1">
-          <mxGeometry x="484.99999999999994" y="632.9" width="138.3" height="92.66" as="geometry" />
+          <mxGeometry x="485.99999999999994" y="632.9" width="138.3" height="92.66" as="geometry" />
         </mxCell>
         <mxCell id="F0ihaf4aq0Wll3CYCOc_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://storage.caktusgroup.com/media/blog-images/drf-logo2.png;" vertex="1" parent="1">
-          <mxGeometry x="665" y="629.8599999999999" width="143.83" height="95.7" as="geometry" />
+          <mxGeometry x="666" y="629.8599999999999" width="143.83" height="95.7" as="geometry" />
         </mxCell>
         <mxCell id="F0ihaf4aq0Wll3CYCOc_-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png;" vertex="1" parent="1">
-          <mxGeometry x="831" y="612.15" width="120" height="120" as="geometry" />
+          <mxGeometry x="832" y="612.15" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F0ihaf4aq0Wll3CYCOc_-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="970.5" y="600.21" width="139.5" height="155" as="geometry" />
+          <mxGeometry x="958.5" y="600.21" width="139.5" height="155" as="geometry" />
         </mxCell>
         <mxCell id="F0ihaf4aq0Wll3CYCOc_-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png;" vertex="1" parent="1">
           <mxGeometry x="219.79" y="635.58" width="69.92" height="72.14" as="geometry" />
