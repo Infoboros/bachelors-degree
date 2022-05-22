@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T22:48:03.136Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1hjMqa71y3gf-hI2U6Us" version="18.0.3" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2022-05-22T10:50:02.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="JcSeGCu61yhYbYTxPM6p" version="18.0.7" type="github" pages="32">
   <diagram id="rRBAAMQKNHw9aOZdCGOo" name="2.1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cEtpJcNim1aq1vf9fKEU" name="2.2">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="6jezploPaR5U7UMBFnvc-0" />
         <mxCell id="6jezploPaR5U7UMBFnvc-1" parent="6jezploPaR5U7UMBFnvc-0" />
@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="T4hb9eTHFMHJ66Ka-Dtj" name="2.3">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vDpiEcn6uXyjwfCjXjLu-0" />
         <mxCell id="vDpiEcn6uXyjwfCjXjLu-1" parent="vDpiEcn6uXyjwfCjXjLu-0" />
@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7ArMAXvEi4PndeQCqGmK" name="2.4">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lFl3z09SAMOXgDoTMGG_-0" />
         <mxCell id="lFl3z09SAMOXgDoTMGG_-1" parent="lFl3z09SAMOXgDoTMGG_-0" />
@@ -366,7 +366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZW2pKMLKBT21dWmsO-Ws" name="2.5">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DoWeuW_7OF4tSivlI7u--0" />
         <mxCell id="DoWeuW_7OF4tSivlI7u--1" parent="DoWeuW_7OF4tSivlI7u--0" />
@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q2vfwZm9cQEEjq_bFs0-" name="2.8">
-    <mxGraphModel dx="3080" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HlIximF3_lnFnLOMG5Tq-0" />
         <mxCell id="HlIximF3_lnFnLOMG5Tq-1" parent="HlIximF3_lnFnLOMG5Tq-0" />
@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v-2OAltCMCQ8vDFTvzT3" name="2.10">
-    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="V7W-8WsftoEZr8TqB6qS-0" />
         <mxCell id="V7W-8WsftoEZr8TqB6qS-1" parent="V7W-8WsftoEZr8TqB6qS-0" />
@@ -999,7 +999,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XLuBhqeWYZGG9cE2xgh1" name="Общая структура">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="n5r8reFuaqzQjhVlAGfF-0" />
         <mxCell id="n5r8reFuaqzQjhVlAGfF-1" parent="n5r8reFuaqzQjhVlAGfF-0" />
@@ -1084,11 +1084,20 @@
         <mxCell id="n5r8reFuaqzQjhVlAGfF-12" value="Подсистема подбора энергосберегающих мероприятий" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="n5r8reFuaqzQjhVlAGfF-1" vertex="1">
           <mxGeometry x="790" y="185" width="160" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="-ZmrnpQtP3m8fylvnTTE-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://novosibirsk.sportpriz.ru/upload/medialibrary/0de/0de7281a907a7d0268c204e6c82d44e5.png;" vertex="1" parent="n5r8reFuaqzQjhVlAGfF-1">
+          <mxGeometry x="315" y="30" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cWBANrJLkYuM5QqqEwyZ-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png;" vertex="1" parent="n5r8reFuaqzQjhVlAGfF-1">
+          <mxGeometry x="782.5" y="430" width="135" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cWBANrJLkYuM5QqqEwyZ-3" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;img style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; -webkit-user-select: none; display: block; margin: auto;&quot; src=&quot;https://franchise.ckred.ru/wp-content/uploads/sites/4/2021/01/tinkoff.png&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="n5r8reFuaqzQjhVlAGfF-1">
+          <mxGeometry x="400" y="530" width="280" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="CCKTOlnFwFg5lJhs49Xc" name="Функциональная диаграмма">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bbUhRDBQMupPqRzmVvhh-0" />
         <mxCell id="bbUhRDBQMupPqRzmVvhh-1" parent="bbUhRDBQMupPqRzmVvhh-0" />
@@ -1175,7 +1184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AWPztAXBxVA8ycS6yVSf" name="Подсистема формирования паспорта ПЭС">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qa7hz7ziC_BQIdeRIn0o-0" />
         <mxCell id="qa7hz7ziC_BQIdeRIn0o-1" parent="qa7hz7ziC_BQIdeRIn0o-0" />
@@ -1280,7 +1289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6un5ofgD20NDW3goDELy" name="REST">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7Pi8rGc4dDVMHHRmRJPl-0" />
         <mxCell id="7Pi8rGc4dDVMHHRmRJPl-1" parent="7Pi8rGc4dDVMHHRmRJPl-0" />
@@ -1387,7 +1396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JwDeAMzXiVSmH64YcFOe" name="Модульная структура">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="THLYKSKLTZ4qxS8tTq79-0" />
         <mxCell id="THLYKSKLTZ4qxS8tTq79-1" parent="THLYKSKLTZ4qxS8tTq79-0" />
@@ -1562,7 +1571,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4aMiac9nMktOiH3W8Gpw" name="авторизация">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1646,7 +1655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UuAJ0w_7OmA9TwupQpNT" name="Валидация">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1727,7 +1736,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uMGAUGX7EnM0sccSr0vZ" name="Процесс оплаты за Физ лицо">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1806,7 +1815,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pagEj3ToDIh-MkGWibri" name="Граф интерфейса">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1856,7 +1865,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s3vIMb_fj_ZLTflrpOIL" name="Контейнеры и компоненты">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1915,7 +1924,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XQTckfKuLxtxmkcFqagx" name="RESTAPI">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2093,7 +2102,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j_haftTvJJdSXckI7AMC" name="Контейнеры">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2137,7 +2146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5vY2wzSsSkfN5KAPim-n" name="docker">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2236,7 +2245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M5c_8kMGdJ1vjr7epAnd" name="docker push">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2307,7 +2316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YM-shxcJd8UmIr34Ex1u" name="приоритет тестирования">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2432,7 +2441,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JmbxRfmnHCpj6-ujOi1I" name="Общая архитектура">
-    <mxGraphModel dx="2253" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2589,31 +2598,31 @@
         <mxCell id="VhfRluAAHv7DaoPC1XMv-23" value="Подсистема оплаты" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;strokeWidth=4;fillColor=#F1E5F7;strokeColor=#B5739D;" parent="1" vertex="1">
           <mxGeometry x="742.46" y="181.34" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/64px-Google_Chrome_icon_%28February_2022%29.svg.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/64px-Google_Chrome_icon_%28February_2022%29.svg.png;" parent="1" vertex="1">
           <mxGeometry x="106" y="640.72" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/768px-Opera_2015_icon.svg.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/768px-Opera_2015_icon.svg.png;" parent="1" vertex="1">
           <mxGeometry x="-4" y="638.72" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yandex.Browser_icon.svg/1200px-Yandex.Browser_icon.svg.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Yandex.Browser_icon.svg/1200px-Yandex.Browser_icon.svg.png;" parent="1" vertex="1">
           <mxGeometry x="-124" y="635.72" width="72" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://restfulapi.net/wp-content/uploads/rest.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://restfulapi.net/wp-content/uploads/rest.png;" parent="1" vertex="1">
           <mxGeometry x="351.27" y="617.71" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.therore.net/images/swagger-300x201.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.therore.net/images/swagger-300x201.png;" parent="1" vertex="1">
           <mxGeometry x="485.99999999999994" y="632.9" width="138.3" height="92.66" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://storage.caktusgroup.com/media/blog-images/drf-logo2.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://storage.caktusgroup.com/media/blog-images/drf-logo2.png;" parent="1" vertex="1">
           <mxGeometry x="666" y="629.8599999999999" width="143.83" height="95.7" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png;" parent="1" vertex="1">
           <mxGeometry x="832" y="612.15" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unixmen.com/wp-content/uploads/2017/07/postgresql-logo.png;" parent="1" vertex="1">
           <mxGeometry x="958.5" y="600.21" width="139.5" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="F0ihaf4aq0Wll3CYCOc_-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png;" vertex="1" parent="1">
+        <mxCell id="F0ihaf4aq0Wll3CYCOc_-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/1/16/Firefox_logo%2C_2017.png;" parent="1" vertex="1">
           <mxGeometry x="219.79" y="635.58" width="69.92" height="72.14" as="geometry" />
         </mxCell>
       </root>
